@@ -1,5 +1,5 @@
 # Radix 4 Cooley Tuckey Algorithm Implementation
-Written in MATLAB, the Cooley Tuckey Algorithm is a simple way to implement a Fast Fourier Transform (FFT), by essentially breaking down a Discrete Fourier Transform (DFT) into many smaller DFT's. I followed a method outlined by the following diagram:
+The Cooley Tuckey Algorithm is a simple way to implement a Fast Fourier Transform (FFT), by essentially breaking down a Discrete Fourier Transform (DFT) into many smaller DFT's. I wrote an implementation in MATLAB using the method outlined by the following diagram:
 
 <img src="https://github.com/jgarnierUQ/Signal-Processing/blob/main/cooleyTukeyTheory.PNG" alt="drawing" width="700"/>
 
